@@ -13,7 +13,8 @@ In this experiment, We systematically evaluated a diverse set of models, includi
 ## Directory Structure
 
 - `data/`: Placeholder for the Fashion MNIST dataset (not included in this repository). Data will eb downloaded and placed here after running the Jupyter notebook file.
-- `FashionMNIST.py`: Single jupyter notebook file where performed data loading, cleaning, visualization, transformation, building ML models, DL models, selecting the best model for further assessment.
+- `FashionMNIST.ipynb`: Single jupyter notebook file where performed data loading, cleaning, visualization, transformation, building ML models, DL models, selecting the best model for further assessment.
+- `Group42_Project_Report.docx`: Project report to explain our experiment goals, motivation, findings and insights.
 - `best-model-fold-0.pth`: weights file to load fold 0 of best model (see section H4 in ipynb file)
 - `best-model-fold-1.pth`: weights file to load fold 1 of best model (see section H4 in ipynb file)
 - `best-model-fold-2.pth`: weights file to load fold 2 of best model (see section H4 in ipynb file)
